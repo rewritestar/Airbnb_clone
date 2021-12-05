@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color:white;
+    cursor: pointer;
+}
+
+
+#home_btn{
+    font-size: 30px;
+    font-weight: bold;   
+}
+
+.corona{
+    background-color: #222222;
+    height: 70px;
+}
+.corona button{
+    color: #9da399;
+    position: relative;
+    top:30%;
+    left:33%;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline
+}
+.mainbar{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+.contentbar{
+    position: relative;
+    left: 30%;
+}
+
+.contentbar button {
+    font-size: 17px;  
+}
+
+.userbar{
+    position: relative;
+    left: 50%;
+}
+
+.userbar button{
+    font-weight: bold;
+    font-size: 17px;
+}
+
